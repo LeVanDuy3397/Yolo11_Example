@@ -1,1 +1,1 @@
-# Yolo11_Example
+# Yolo11_Example Object Detection
